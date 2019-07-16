@@ -11,4 +11,10 @@ public class SoccerCoach implements Coach {
         return "Hey go run for a while ";
     }
 
+    @Override
+    public String getDailyFortune() {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
 }
